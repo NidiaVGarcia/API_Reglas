@@ -1,4 +1,3 @@
-from datetime import datetime, timedelta
 from logger.logger import Logger
 
 class Service:
